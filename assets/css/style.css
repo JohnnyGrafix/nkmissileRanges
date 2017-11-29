@@ -85,4 +85,45 @@ footer {
 	left: 85%;
 	top: 90%;
 	margin-top: 0px;
-}	
+}
+#p2Words1 {
+	top: 20%;
+	left: 55%;
+	color: #5C2D91;
+	}
+#p2Words2 {
+	top: 38%;
+	left: 55%;
+}
+#p3Words1 {
+	top: 40%;
+	left: 60%;
+	color: #5C2D91;
+	}
+#p3Words2 {
+	top: 46%;
+	left: 52%;
+}
+#p4Words1 {
+	top: 45%;
+	left: 56%;
+	color: #5C2D91;
+	}
+#p4Words2 {
+	top: 51%;
+	left: 56%;
+}
+#p5Words1 {
+	top: 58%;
+	left: 54%;
+	color: #A0262A;
+	}
+#p5Words2 {
+	top: 64%;
+	left: 54%;
+	color: black;
+}
+#p5Words3 {
+	top: 75%;
+	left: 2%;
+}			

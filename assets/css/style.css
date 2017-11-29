@@ -2,6 +2,60 @@ body {
 	font-family: 'Roboto', sans-serif;
 	font-weight: normal;
 	font-size: 1.5rem;
-	color: red;
+	color: gray;
 }
-	
+.section {
+	position: relative;
+	width: 100%;
+	margin-top: 15px;
+	max-width:600px;
+}
+.main {
+	width: 100%;
+}
+.allWords {
+	position: absolute;
+}
+.buttonDiv {
+	position: relative;
+	width: 100%;
+	max-width: 600px;
+	margin-bottom: 70px;
+}
+.next {
+	position: absolute;
+	width: 15%;
+	left: 80%;
+	}
+.next:hover {
+	width: 16%;
+}
+.home {
+	position: absolute;
+	width: 15%;
+	left: 7%;
+}
+.home:hover {
+	width: 16%;
+}
+.back {
+	position: absolute;
+	width: 15%;
+	left: 40%;
+}
+.back:hover {
+	width: 16%;
+}
+
+footer {
+	position: relative;
+	margin-bottom: 200px;
+	font-size: 1rem;
+}
+.logo {
+	position: absolute;
+	width: 10%;
+	left: 85%;
+	top: 90%;
+	margin-top: 0px;
+}	
